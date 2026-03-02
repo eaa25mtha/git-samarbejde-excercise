@@ -1,6 +1,6 @@
 {
-  "name": "react-router-spa",
-  "base": "/react-router-spa/",
+  "name": "git-samarbejde-excercise",
+  "base": "/git-samarbejde-excercise/",
   "private": true,
   "version": "1.0.0",
   "type": "module",
